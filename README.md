@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/29010350/202970620-16e4db42-dbb7-4186-
 ## Test Case
 https://docs.google.com/spreadsheets/d/1sgdJhgJvCln8mgWNCwwlEcox8TOVxQJKA7i6QfJAueI/edit?usp=sharing
 
-## TestNG report Link
+## Allure report Link
 https://drive.google.com/file/d/1KZMQVfcieIaAM3bEw7Q_kNNSHL3RrjJ3/view?usp=sharing
 
 ## Gradle report Link
